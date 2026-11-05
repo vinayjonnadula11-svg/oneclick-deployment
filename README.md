@@ -87,16 +87,13 @@ oneclick-deployment/
 ## Website Screenshots
 
 ### Frontend Website — npm + Nginx
+<img width="1351" height="745" alt="image" src="https://github.com/user-attachments/assets/c4985513-503b-4487-9797-7bafda98ae00" />
 
-Add your frontend website screenshot here.
-
-![Frontend Website Screenshot](images/frontend-website.png)
 
 ### Gradle Website — Gradle + Nginx
 
-Add your Gradle website screenshot here.
+<img width="1721" height="825" alt="image" src="https://github.com/user-attachments/assets/efe1d852-8285-4561-bc74-097cf6809eee" />
 
-![Gradle Website Screenshot](images/gradle-website.png)
 
 ## Project Objectives
 
