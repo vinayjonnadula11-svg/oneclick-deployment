@@ -87,7 +87,8 @@ oneclick-deployment/
 ## Website Screenshots
 
 ### Frontend Website — npm + Nginx
-<img width="1208" height="730" alt="image" src="https://github.com/user-attachments/assets/7b3ff5a3-8a34-4a96-926b-1e20126e1dce" />
+<img width="1133" height="780" alt="image" src="https://github.com/user-attachments/assets/b02fae02-8dca-4bf4-be87-e61d4476debd" />
+
 
 
 
