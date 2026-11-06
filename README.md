@@ -87,7 +87,8 @@ oneclick-deployment/
 ## Website Screenshots
 
 ### Frontend Website — npm + Nginx
-<img width="1351" height="745" alt="image" src="https://github.com/user-attachments/assets/c4985513-503b-4487-9797-7bafda98ae00" />
+<img width="1208" height="730" alt="image" src="https://github.com/user-attachments/assets/7b3ff5a3-8a34-4a96-926b-1e20126e1dce" />
+
 
 
 ### Gradle Website — Gradle + Nginx
